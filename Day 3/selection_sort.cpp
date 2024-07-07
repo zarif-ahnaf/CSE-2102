@@ -24,10 +24,7 @@ int main(){
             arr[i] = arr[min];
             arr[min] = temp;
         }
-        for(int i =0;i<n;i++){
-            cout << arr[i] << " ";
-        }
-        cout << endl;
+
 
     }
     for(int i =0;i<n;i++){
